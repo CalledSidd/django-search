@@ -1,0 +1,23 @@
+.search{
+    width: 240px;
+    height: 30px;
+    margin-left: 650px;
+}
+.search-btn{
+    padding: 8px;
+    background-color: blue;
+}
+.content-wrap{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+.content-wrap-1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.wrap-img{
+    display: flex;
+    align-items: flex-start;
+}
